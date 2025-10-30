@@ -1,0 +1,5 @@
+{
+  "name": "Short Link Generator",
+  "description": "A sleek and modern web application to quickly shorten long URLs. Enter a valid URL, and get a shareable short link in an instant, complete with a one-click copy feature.",
+  "requestFramePermissions": []
+}
